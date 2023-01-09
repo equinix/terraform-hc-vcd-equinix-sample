@@ -1,0 +1,2 @@
+#Ignore terraform backend plugin files
+.terraform/
